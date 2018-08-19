@@ -2,7 +2,6 @@
   "name": "mocha-works",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": {},
   "license": "MIT",
   "dependencies": {
     "chai": "^3.5.0",
